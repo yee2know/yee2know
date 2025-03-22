@@ -28,12 +28,16 @@
 
 ## 🎖️ Projects
 
+
 <p>
 1. 북평고등학교
   <br>
 IOS : https://apps.apple.com/kr/app/%EB%B6%81%ED%8F%89%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90/id6480580361
   <br>
 Android : https://m.onestore.co.kr/ko-kr/apps/appsDetail.omp?prodId=0000774915
+  <br>
+  <br>
+Others : https://devu.me/profile/detail/?email=rhk0919@hanmail.net
 </p>
 
 
