@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+yee2know's+Github!👋&fontSize=40"/>
 
 <!--
 **yee2know/yee2know** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
