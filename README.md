@@ -25,21 +25,6 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
-## 🎖️ Projects
-
-
-<p>
-1. 북평고등학교
-  <br>
-IOS : https://apps.apple.com/kr/app/%EB%B6%81%ED%8F%89%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90/id6480580361
-  <br>
-Android : https://m.onestore.co.kr/ko-kr/apps/appsDetail.omp?prodId=0000774915
-  <br>
-  <br>
-Others : https://devu.me/profile/detail/?email=rhk0919@hanmail.net
-</p>
-
-
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yee2know&layout=compact&theme=algolia)
@@ -49,3 +34,5 @@ Others : https://devu.me/profile/detail/?email=rhk0919@hanmail.net
 <!-- GitHub Stats Card -->
 [![yee2know's GitHub stats](https://github-readme-stats.vercel.app/api?username=yee2know&show_icons=true&theme=tokyonight)](https://github.com/yee2know/github-readme-stats)
 
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yee2know)](https://solved.ac/yee2know)
