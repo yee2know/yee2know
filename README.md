@@ -40,3 +40,4 @@
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yee2know)](https://solved.ac/yee2know)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=yee2know&theme=dark)
