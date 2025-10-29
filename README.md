@@ -32,8 +32,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yee2know&layout=compact&theme=algolia)
 
-<br>
-
 <!-- GitHub Stats Card -->
 [![yee2know's GitHub stats](https://github-readme-stats.vercel.app/api?username=yee2know&show_icons=true&theme=tokyonight)](https://github.com/yee2know/github-readme-stats)
 
