@@ -5,25 +5,23 @@
 <!-- 프로젝트 -->
 ## 📂 Projects
 - [북평고 학생들을 위한 편의성 앱, 북평고등학교(App)](https://github.com/pig06/Bukpyeong)
-  My Part : PM, Develop
-  2024.01 ~ 2024.04
+  <br/>PM, Develop / 2024.01 ~ 2024.04
+  <br/> ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)<img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
 
 - [재생에너지 펀딩 플랫폼, 써닝(App)](https://github.com/NeordinaryU)
-  My Part : Backend
-  2025.05.17 ~ 2025.05.18
-
+  <br/>Backend / 2025.05.17 ~ 2025.05.18
+  <br/><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 - [저속노화 공동구매 플랫폼, 가치먹자(Web)](https://github.com/Gachimeokja-Project)
-  My Part : Backend
-  2025.07 ~ 2025.08
-
+  <br/>Backend / 2025.07 ~ 2025.08
+  <br/><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 - [프롬프트 거래 플랫폼, 프롬프트 플레이스(Web)](https://github.com/PromptPlace)
-  My Part : Backend
-  2025.06 ~ ing
-  
+  <br/>Backend / 2025.06 ~ ing
+  <br/><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 <!-- 수상 내역 -->
 ## 🏆 Competition
 
 - Ne(o)rdinary Hackathon 8th 최우수상 (2025.05)
+- 2025 CAPS 여름방학 Capston 3등 (2025.08)
 - 2025 동국대학교 프로그래밍 경진대회(DGUPC) 은상 (2025.11)
 
 
