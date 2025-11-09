@@ -18,23 +18,15 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
 
 
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yee2know&layout=compact&theme=algolia)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yee2know&layout=compact&theme=ambient_gradient) -->
 
 <!-- GitHub Stats Card -->
-[![yee2know's GitHub stats](https://github-readme-stats.vercel.app/api?username=yee2know&show_icons=true&theme=tokyonight)](https://github.com/yee2know/github-readme-stats)
+[![yee2know's GitHub stats](https://github-readme-stats.vercel.app/api?username=yee2know&show_icons=true&theme=ambient_gradient)](https://github.com/yee2know/github-readme-stats)
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yee2know)](https://solved.ac/yee2know)
