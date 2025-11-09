@@ -4,7 +4,22 @@
 
 <!-- 프로젝트 -->
 ## 📂 Projects
+- [북평고 학생들을 위한 편의성 앱, 북평고등학교(App)](https://github.com/pig06/Bukpyeong)
+  My Part : PM, Develop
+  2024.01 ~ 2024.04
 
+- [재생에너지 펀딩 플랫폼, 써닝(App)](https://github.com/NeordinaryU)
+  My Part : Backend
+  2025.05.17 ~ 2025.05.18
+
+- [저속노화 공동구매 플랫폼, 가치먹자(Web)](https://github.com/Gachimeokja-Project)
+  My Part : Backend
+  2025.07 ~ 2025.08
+
+- [프롬프트 거래 플랫폼, 프롬프트 플레이스(Web)](https://github.com/PromptPlace)
+  My Part : Backend
+  2025.06 ~ ing
+  
 <!-- 수상 내역 -->
 ## 🏆 Competition
 
