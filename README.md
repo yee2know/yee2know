@@ -1,12 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+yee2know's+Github!👋&fontSize=40"/>
 
 [포트폴리오](https://devportfolio-wjh.vercel.app/)
+
+<!-- 프로젝트 -->
+## 📂 Projects
+
 <!-- 수상 내역 -->
 ## 🏆 Competition
-<p>
-  Ne(o)rdinary Hackathon 8th 최우수상
-  2025 동국대학교 프로그래밍 경진대회(DGUPC) 은상
-</p>
+
+- Ne(o)rdinary Hackathon 8th 최우수상 (2025.05)
+- 2025 동국대학교 프로그래밍 경진대회(DGUPC) 은상 (2025.11)
+
 
 <!-- 기술 스택 -->
 ## 💻 Tech Stacks
