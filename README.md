@@ -54,3 +54,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yee2know)](https://solved.ac/yee2know)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=yee2know&theme=dark)
+[![CodeForces Profile](https://cf.leed.at?id=yee2know)](https://codeforces.com/profile/yee2know)
