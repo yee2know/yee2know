@@ -17,12 +17,16 @@
 - [프롬프트 거래 플랫폼, 프롬프트 플레이스(Web)](https://github.com/PromptPlace)
   <br/>Backend / 2025.06 ~ ing
   <br/><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
+- [실패 자산화 포트폴리오 서비스, 시스투스(Web)](https://github.com/X-THON-2025-Team11-BACKSTEP)
+  <br/>팀장, PM, LEAD Backend / 2025.11.22 ~ 2025.11.23
+  <br/><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 <!-- 수상 내역 -->
 ## 🏆 Competition
 
 - Ne(o)rdinary Hackathon 8th 최우수상 (2025.05)
 - 2025 CAPS 여름방학 Capston 3등 (2025.08)
 - 2025 동국대학교 프로그래밍 경진대회(DGUPC) 은상 (2025.11)
+- 2025 동국대학교 첨단융합대학 해커톤 X톤 미래인재상(팀장) (2025.11)
 
 
 <!-- 기술 스택 -->
