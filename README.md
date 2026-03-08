@@ -20,6 +20,9 @@
 - [실패 자산화 포트폴리오 서비스, 시스투스(Web)](https://github.com/X-THON-2025-Team11-BACKSTEP)
   <br/>팀장, PM, LEAD Backend / 2025.11.22 ~ 2025.11.23
   <br/><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
+- [편리한 스테이블 코인 결제 플랫폼, 스코이(App)](https://github.com/UMCSCOI)
+  <br/>Backend, AWS / 2026.01 ~ 2026.02
+  <br/><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 <!-- 수상 내역 -->
 ## 🏆 Competition
 
